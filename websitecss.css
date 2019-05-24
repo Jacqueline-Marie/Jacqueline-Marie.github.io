@@ -54,7 +54,7 @@ figcaption {font-family: 'Tangerine', cursive;
 
 .turn {transform: rotate(90deg);}
 
-body {background-image: url("../images/hero.jpg");
+body {background-image: url("hero.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
